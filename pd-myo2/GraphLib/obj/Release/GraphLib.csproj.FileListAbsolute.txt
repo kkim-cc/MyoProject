@@ -1,0 +1,11 @@
+C:\Conestoga\S4Project\PD\Source\pd-myo2\GraphLib\bin\Release\GraphLib.dll
+C:\Conestoga\S4Project\PD\Source\pd-myo2\GraphLib\bin\Release\GraphLib.pdb
+C:\Conestoga\S4Project\PD\Source\pd-myo2\GraphLib\obj\Release\GraphLib.csprojResolveAssemblyReference.cache
+C:\Conestoga\S4Project\PD\Source\pd-myo2\GraphLib\obj\Release\GraphLib.PlotterGraphPaneEx.resources
+C:\Conestoga\S4Project\PD\Source\pd-myo2\GraphLib\obj\Release\GraphLib.PlotterDisplayEx.resources
+C:\Conestoga\S4Project\PD\Source\pd-myo2\GraphLib\obj\Release\GraphLib.PlotterGraphSelectCurvesForm.resources
+C:\Conestoga\S4Project\PD\Source\pd-myo2\GraphLib\obj\Release\GraphLib.PrintPreviewForm.resources
+C:\Conestoga\S4Project\PD\Source\pd-myo2\GraphLib\obj\Release\ClassLibrary1.Properties.Resources.resources
+C:\Conestoga\S4Project\PD\Source\pd-myo2\GraphLib\obj\Release\GraphLib.csproj.GenerateResource.Cache
+C:\Conestoga\S4Project\PD\Source\pd-myo2\GraphLib\obj\Release\GraphLib.dll
+C:\Conestoga\S4Project\PD\Source\pd-myo2\GraphLib\obj\Release\GraphLib.pdb

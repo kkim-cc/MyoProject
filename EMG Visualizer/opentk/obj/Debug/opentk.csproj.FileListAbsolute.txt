@@ -1,0 +1,35 @@
+C:\Users\Cameron\Desktop\SET\Project Design\opentk\opentk\obj\Debug\opentk.csprojResolveAssemblyReference.cache
+C:\Users\Cameron\Desktop\SET\Project Design\opentk\opentk\bin\Debug\opentk.exe
+C:\Users\Cameron\Desktop\SET\Project Design\opentk\opentk\bin\Debug\opentk.pdb
+C:\Users\Cameron\Desktop\SET\Project Design\opentk\opentk\bin\Debug\OpenTK.dll
+C:\Users\Cameron\Desktop\SET\Project Design\opentk\opentk\obj\Debug\opentk.exe
+C:\Users\Cameron\Desktop\SET\Project Design\opentk\opentk\obj\Debug\opentk.pdb
+C:\Users\Cameron\Desktop\SET\Project Design\opentk\opentk\bin\Debug\Content\arm.jpg
+C:\Users\Cameron\Desktop\opentk\opentk\obj\Debug\opentk.exe
+C:\Users\Cameron\Desktop\opentk\opentk\obj\Debug\opentk.pdb
+C:\Users\Cameron\Desktop\opentk\opentk\bin\Debug\Content\arm.jpg
+C:\Users\Cameron\Desktop\opentk\opentk\bin\Debug\opentk.exe
+C:\Users\Cameron\Desktop\opentk\opentk\bin\Debug\opentk.pdb
+C:\Users\Cameron\Desktop\opentk\opentk\bin\Debug\OpenTK.dll
+C:\Users\Cameron\Desktop\opentk\opentk\obj\Debug\opentk.csprojResolveAssemblyReference.cache
+C:\Users\Cameron\Desktop\opentk - Copy\opentk\obj\Debug\opentk.exe
+C:\Users\Cameron\Desktop\opentk - Copy\opentk\obj\Debug\opentk.pdb
+C:\Users\Cameron\Desktop\opentk - Copy\opentk\bin\Debug\opentk.exe
+C:\Users\Cameron\Desktop\opentk - Copy\opentk\bin\Debug\opentk.pdb
+C:\Users\Cameron\Desktop\opentk - Copy\opentk\bin\Debug\OpenTK.dll
+C:\Users\Cameron\Desktop\opentk - Copy\opentk\obj\Debug\opentk.csprojResolveAssemblyReference.cache
+C:\Users\Cameron\Desktop\Working Opentk\opentk\obj\Debug\opentk.exe
+C:\Users\Cameron\Desktop\Working Opentk\opentk\obj\Debug\opentk.pdb
+C:\Users\Cameron\Desktop\SET\Project Design\Github\MyoProject\EMG Visualizer\opentk\obj\Debug\opentk.exe
+C:\Users\Cameron\Desktop\SET\Project Design\Github\MyoProject\EMG Visualizer\opentk\obj\Debug\opentk.pdb
+C:\Conestoga\S4Project\PD\EMG Visualizer\EMG Visualizer\opentk\obj\Debug\opentk.exe
+C:\Conestoga\S4Project\PD\EMG Visualizer\EMG Visualizer\opentk\obj\Debug\opentk.pdb
+C:\Conestoga\S4Project\PD\EMG Visualizer\EMG Visualizer\opentk\bin\Debug\opentk.exe
+C:\Conestoga\S4Project\PD\EMG Visualizer\EMG Visualizer\opentk\bin\Debug\opentk.pdb
+C:\Conestoga\S4Project\PD\EMG Visualizer\EMG Visualizer\opentk\bin\Debug\OpenTK.dll
+C:\Conestoga\S4Project\PD\EMG Visualizer\EMG Visualizer\opentk\obj\Debug\opentk.csprojResolveAssemblyReference.cache
+C:\Conestoga\S4Project\PD\EMG Visualizer\opentk\obj\Debug\opentk.exe
+C:\Conestoga\S4Project\PD\EMG Visualizer\opentk\obj\Debug\opentk.pdb
+C:\Conestoga\S4Project\PD\EMG Visualizer\opentk\bin\Debug\opentk.exe
+C:\Conestoga\S4Project\PD\EMG Visualizer\opentk\bin\Debug\opentk.pdb
+C:\Conestoga\S4Project\PD\EMG Visualizer\opentk\bin\Debug\OpenTK.dll

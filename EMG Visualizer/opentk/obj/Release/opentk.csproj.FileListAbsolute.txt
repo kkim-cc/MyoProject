@@ -1,0 +1,6 @@
+C:\Conestoga\S4Project\PD\EMG Visualizer\opentk\bin\Release\opentk.exe
+C:\Conestoga\S4Project\PD\EMG Visualizer\opentk\bin\Release\opentk.pdb
+C:\Conestoga\S4Project\PD\EMG Visualizer\opentk\bin\Release\OpenTK.dll
+C:\Conestoga\S4Project\PD\EMG Visualizer\opentk\obj\Release\opentk.csprojResolveAssemblyReference.cache
+C:\Conestoga\S4Project\PD\EMG Visualizer\opentk\obj\Release\opentk.exe
+C:\Conestoga\S4Project\PD\EMG Visualizer\opentk\obj\Release\opentk.pdb

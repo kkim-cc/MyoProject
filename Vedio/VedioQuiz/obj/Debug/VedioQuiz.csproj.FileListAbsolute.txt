@@ -1,0 +1,27 @@
+c:\users\bowem\documents\visual studio 2013\Projects\VedioQuiz\VedioQuiz\bin\Debug\VedioQuiz.exe
+c:\users\bowem\documents\visual studio 2013\Projects\VedioQuiz\VedioQuiz\bin\Debug\VedioQuiz.pdb
+c:\users\bowem\documents\visual studio 2013\Projects\VedioQuiz\VedioQuiz\bin\Debug\Interop.WMPLib.dll
+c:\users\bowem\documents\visual studio 2013\Projects\VedioQuiz\VedioQuiz\bin\Debug\AxInterop.WMPLib.dll
+c:\users\bowem\documents\visual studio 2013\Projects\VedioQuiz\VedioQuiz\obj\Debug\VedioQuiz.csprojResolveAssemblyReference.cache
+c:\users\bowem\documents\visual studio 2013\Projects\VedioQuiz\VedioQuiz\obj\Debug\Interop.WMPLib.dll
+c:\users\bowem\documents\visual studio 2013\Projects\VedioQuiz\VedioQuiz\obj\Debug\AxInterop.WMPLib.dll
+c:\users\bowem\documents\visual studio 2013\Projects\VedioQuiz\VedioQuiz\obj\Debug\VedioQuiz.csproj.ResolveComReference.cache
+c:\users\bowem\documents\visual studio 2013\Projects\VedioQuiz\VedioQuiz\obj\Debug\VedioQuiz.Form1.resources
+c:\users\bowem\documents\visual studio 2013\Projects\VedioQuiz\VedioQuiz\obj\Debug\VedioQuiz.Properties.Resources.resources
+c:\users\bowem\documents\visual studio 2013\Projects\VedioQuiz\VedioQuiz\obj\Debug\VedioQuiz.csproj.GenerateResource.Cache
+c:\users\bowem\documents\visual studio 2013\Projects\VedioQuiz\VedioQuiz\obj\Debug\VedioQuiz.exe
+c:\users\bowem\documents\visual studio 2013\Projects\VedioQuiz\VedioQuiz\obj\Debug\VedioQuiz.pdb
+C:\Users\Bowem\documents\visual studio 2013\Projects\VedioQuiz\VedioQuiz\bin\Debug\Camera_NET.dll
+C:\Users\Bowem\documents\visual studio 2013\Projects\VedioQuiz\VedioQuiz\bin\Debug\DirectShowLib-2010.dll
+C:\Conestoga\S4Project\PD\Vedio\VedioQuiz\obj\Debug\Interop.WMPLib.dll
+C:\Conestoga\S4Project\PD\Vedio\VedioQuiz\obj\Debug\AxInterop.WMPLib.dll
+C:\Conestoga\S4Project\PD\Vedio\VedioQuiz\obj\Debug\VedioQuiz.csproj.ResolveComReference.cache
+C:\Conestoga\S4Project\PD\Vedio\VedioQuiz\obj\Debug\VedioQuiz.exe
+C:\Conestoga\S4Project\PD\Vedio\VedioQuiz\obj\Debug\VedioQuiz.pdb
+C:\Conestoga\S4Project\PD\Vedio\VedioQuiz\bin\Debug\VedioQuiz.exe
+C:\Conestoga\S4Project\PD\Vedio\VedioQuiz\bin\Debug\VedioQuiz.pdb
+C:\Conestoga\S4Project\PD\Vedio\VedioQuiz\bin\Debug\Interop.WMPLib.dll
+C:\Conestoga\S4Project\PD\Vedio\VedioQuiz\bin\Debug\AxInterop.WMPLib.dll
+C:\Conestoga\S4Project\PD\Vedio\VedioQuiz\obj\Debug\VedioQuiz.Form1.resources
+C:\Conestoga\S4Project\PD\Vedio\VedioQuiz\obj\Debug\VedioQuiz.Properties.Resources.resources
+C:\Conestoga\S4Project\PD\Vedio\VedioQuiz\obj\Debug\VedioQuiz.csproj.GenerateResource.Cache

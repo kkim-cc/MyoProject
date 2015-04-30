@@ -1,0 +1,11 @@
+C:\Conestoga\S4Project\PD\Source\pd-myo2\bin\Release\pd-myo.exe.config
+C:\Conestoga\S4Project\PD\Source\pd-myo2\bin\Release\pd-myo.exe
+C:\Conestoga\S4Project\PD\Source\pd-myo2\bin\Release\pd-myo.pdb
+C:\Conestoga\S4Project\PD\Source\pd-myo2\bin\Release\GraphLib.dll
+C:\Conestoga\S4Project\PD\Source\pd-myo2\bin\Release\GraphLib.pdb
+C:\Conestoga\S4Project\PD\Source\pd-myo2\obj\Release\pd-myo.csprojResolveAssemblyReference.cache
+C:\Conestoga\S4Project\PD\Source\pd-myo2\obj\Release\pd_myo.myoForm.resources
+C:\Conestoga\S4Project\PD\Source\pd-myo2\obj\Release\pd_myo.Properties.Resources.resources
+C:\Conestoga\S4Project\PD\Source\pd-myo2\obj\Release\pd-myo.csproj.GenerateResource.Cache
+C:\Conestoga\S4Project\PD\Source\pd-myo2\obj\Release\pd-myo.exe
+C:\Conestoga\S4Project\PD\Source\pd-myo2\obj\Release\pd-myo.pdb

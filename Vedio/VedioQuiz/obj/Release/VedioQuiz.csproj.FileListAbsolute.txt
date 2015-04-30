@@ -1,0 +1,13 @@
+C:\Conestoga\S4Project\PD\Vedio\VedioQuiz\obj\Release\VedioQuiz.csprojResolveAssemblyReference.cache
+C:\Conestoga\S4Project\PD\Vedio\VedioQuiz\obj\Release\Interop.WMPLib.dll
+C:\Conestoga\S4Project\PD\Vedio\VedioQuiz\obj\Release\AxInterop.WMPLib.dll
+C:\Conestoga\S4Project\PD\Vedio\VedioQuiz\obj\Release\VedioQuiz.csproj.ResolveComReference.cache
+C:\Conestoga\S4Project\PD\Vedio\VedioQuiz\obj\Release\VedioQuiz.Form1.resources
+C:\Conestoga\S4Project\PD\Vedio\VedioQuiz\obj\Release\VedioQuiz.Properties.Resources.resources
+C:\Conestoga\S4Project\PD\Vedio\VedioQuiz\obj\Release\VedioQuiz.csproj.GenerateResource.Cache
+C:\Conestoga\S4Project\PD\Vedio\VedioQuiz\bin\Release\VedioQuiz.exe
+C:\Conestoga\S4Project\PD\Vedio\VedioQuiz\bin\Release\VedioQuiz.pdb
+C:\Conestoga\S4Project\PD\Vedio\VedioQuiz\bin\Release\Interop.WMPLib.dll
+C:\Conestoga\S4Project\PD\Vedio\VedioQuiz\bin\Release\AxInterop.WMPLib.dll
+C:\Conestoga\S4Project\PD\Vedio\VedioQuiz\obj\Release\VedioQuiz.exe
+C:\Conestoga\S4Project\PD\Vedio\VedioQuiz\obj\Release\VedioQuiz.pdb
